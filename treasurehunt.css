@@ -35,7 +35,7 @@ background-color: red;
 position: relative;
 animation: identifier 5s linear 2s infinite alternate;
 }
-/* @keyframes identifier {
+@keyframes identifier {
     0% {left: 10px; 
         top: 10px;
         right: 10px;
@@ -61,7 +61,7 @@ animation: identifier 5s linear 2s infinite alternate;
         left: 0px;
         top: 0px;
     }
-} */
+}
 
 button{
     border: 6px  outset coral;
